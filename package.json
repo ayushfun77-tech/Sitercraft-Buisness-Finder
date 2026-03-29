@@ -1,0 +1,10 @@
+{
+  "name": "sitecraft-prospect-ai",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Prospecting app for finding businesses with no website and preparing WhatsApp outreach.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
